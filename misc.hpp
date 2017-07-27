@@ -1,11 +1,5 @@
-//
-//  misc.hpp
-//  prep-tests
-//
 //  Created by Richard Lee on 7/14/17.
 //  Copyright © 2017 Richard Lee. All rights reserved.
-//
-
 #ifndef misc_hpp
 #define misc_hpp
 #include <vector>
