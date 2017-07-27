@@ -1,11 +1,5 @@
-//
-//  main.cpp
-//  prep-tests
-//
 //  Created by Richard Lee on 7/14/17.
 //  Copyright © 2017 Richard Lee. All rights reserved.
-//
-
 #include <iostream>
 #include <climits>
 #include <vector>
