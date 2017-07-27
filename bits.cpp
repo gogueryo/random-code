@@ -1,11 +1,6 @@
 // --------------------------------------------------------------------------------
-//  bits.cpp
-//  prep-tests
-//
 //  Created by Richard Lee on 7/14/17.
 //  Copyright © 2017 Richard Lee. All rights reserved.
-//
-
 // --------------------------------------------------------------------------------
 /*
     - swap 2 numbers without temp
@@ -13,8 +8,6 @@
     - detect overflow and underflow 
  */
 // --------------------------------------------------------------------------------
-
-
 #include "bits.hpp"
 #include <iostream>
 #include <climits>
